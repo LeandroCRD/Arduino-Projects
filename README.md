@@ -5,7 +5,7 @@
 **Blink** - Blink Led Project.  
 <img src = "Blink/Blink Led.PNG" width=200>
 
-**Push Button** - Turn Leds through Push Button.
-<img src = "Blink/Push Button Leds.PNG" width=200>
+**Push Button** - Turn Leds through Push Button.  
+<img src = "PushButton/Push Button Leds.PNG" width=200>
 
 **Traffic Light** - Automatic (with display) and Manual Traffic Light.
