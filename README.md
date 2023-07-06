@@ -3,7 +3,7 @@
 **7-Segment Display** - Automatic and Manual Project Display that count from 0 to 9.
 
 **Blink** - Blink Led Project.  
-<img src = "Blink/Blink Led.PNG">
+<img src = "Blink/Blink Led.PNG" width=50>
 
 **Push Button** - Turn Leds through Push Button.
 
