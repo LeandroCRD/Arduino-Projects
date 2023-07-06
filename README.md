@@ -8,4 +8,5 @@
 **Push Button** - Turn Leds through Push Button.  
 <img src = "PushButton/Push Button Leds.PNG" width=200>
 
-**Traffic Light** - Automatic (with display) and Manual Traffic Light.
+**Traffic Light** - Automatic (with display) and Manual Traffic Light.  
+<img src = "Traffic Light/Traffic Light Automatic/Traffic Light.PNG" width=200>
