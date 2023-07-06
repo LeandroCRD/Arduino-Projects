@@ -1,4 +1,4 @@
-# ArduinoProjects
+# Arduino Projects
 
 **7-Segment Display** - Automatic and Manual Project Display that count from 0 to 9.
 
