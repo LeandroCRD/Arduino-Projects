@@ -1,6 +1,7 @@
 # Arduino Projects
 
-**7-Segment Display** - Automatic and Manual Project Display that count from 0 to 9.
+**7-Segment Display** - Automatic and Manual Project Display that count from 0 to 9.  
+<img src = "7-Segment Display/Display Automatic/7 Segment Automatic.PNG" width=200>
 
 **Blink** - Blink Led Project.  
 <img src = "Blink/Blink Led.PNG" width=200>
